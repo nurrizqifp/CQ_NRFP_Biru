@@ -119,5 +119,19 @@ namespace PraktikumADO
             }
         }
 
+        private void btnHitungDosen_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUpdateSKS_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnInsertProdi_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
