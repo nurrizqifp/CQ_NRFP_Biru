@@ -24,5 +24,30 @@ namespace PraktikumADO
             conn = new SqlConnection(
                 "Data Source=MSI;Initial Catalog=DBAkademikADO;Integrated Security=True");
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnConnect_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHitungMhs_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnHitungMK_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
