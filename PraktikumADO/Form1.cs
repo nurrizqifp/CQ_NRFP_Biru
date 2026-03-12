@@ -19,5 +19,10 @@ namespace PraktikumADO
         {
             InitializeComponent();
         }
+    private void Koneksi()
+        {
+            conn = new SqlConnection(
+                "Data Source=MSI;Initial Catalog=DBAkademikADO;Integrated Security=True");
+        }
     }
 }
